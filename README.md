@@ -156,5 +156,5 @@ Apache
 
 # Author information #
 
-This role was created in 2014 by [Dimitrios Liappis](mailto:liappis@pythian.com)
+This role was created in 2014 by [Dimitrios Liappis](mailto:liappis@pythian.com) and is maintained by [Tomas Nunez](mailto:nunez@pythian.com) starting 2016
 
